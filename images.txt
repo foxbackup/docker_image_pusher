@@ -1,2 +1,6 @@
 linuxserver/plex
 jeessy/ddns-go
+jxxghp/moviepilot
+linuxserver/qbittorrent
+lovechen/embyserver
+chisbread/transmission
