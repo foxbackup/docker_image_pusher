@@ -5,3 +5,4 @@ linuxserver/qbittorrent
 lovechen/embyserver
 chisbread/transmission
 linuxserver/emby
+vaultwarden/server
