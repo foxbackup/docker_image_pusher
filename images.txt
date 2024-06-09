@@ -6,3 +6,4 @@ lovechen/embyserver
 chisbread/transmission
 linuxserver/emby
 vaultwarden/server
+6053537/portainer-ce
