@@ -4,3 +4,4 @@ jxxghp/moviepilot
 linuxserver/qbittorrent
 lovechen/embyserver
 chisbread/transmission
+linuxserver/emby
